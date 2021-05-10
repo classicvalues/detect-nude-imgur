@@ -5,6 +5,11 @@ Have fun! :)
 
 This code is not of my property, i just made some changes and a google colab to execute it.
 
+# Executing on Google Colab
+I made a google colab adaptation of the algorith
+1. Go to this page: https://gist.github.com/ricardo01l/754e5fdcb82c65377e4d284d8304e166
+2. Then click "Open in colab" and follow the steps it indicates you.
+
 # Executing on your computer
 If you want to execute this on your computer, you need to do this:
 

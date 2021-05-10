@@ -17,7 +17,7 @@ Open comand line.
 
 1. Go to the folder you want the code and Clone git
 ```
-> git clone https://github.com/kszmigiel/imgur_nude_bot.git
+> git clone https://github.com/ricardo01l/detect-nude-imgur.git
 ```
 
 2. install dependencies and move to the folder we cloned

@@ -3,7 +3,7 @@
 Simple bot that goes through random images from imgur.com and checks if it's a nude using DeepAI.
 Have fun! :)
 
-This code is not of my property, i just made some changes and a google colab to execute it.
+This code is not of my property, i just made some changes and a google colab to execute it. This is a improved code, but if you want it, here is the original: https://github.com/kszmigiel/imgur_nude_bot
 
 # Executing on Google Colab
 I made a google colab adaptation of the algorith

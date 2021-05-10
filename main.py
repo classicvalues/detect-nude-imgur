@@ -32,7 +32,7 @@ while True:
         data={
             'image': img_url + '.jpg',
         },
-        headers={'api-key': '14103e5d-0884-41fd-8883-6f0037c5c2b3'}
+        headers={'api-key': 'your deepAI api key goes here'}
     )
     json_response = r.json()
     if len(json_response['output']['detections']):
